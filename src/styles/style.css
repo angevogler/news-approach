@@ -1,0 +1,22 @@
+.story-link {
+  text-decoration: none;
+  color: black; }
+
+.story-link:visited {
+  color: black; }
+
+.story-container {
+  list-style: none;
+  border-bottom: 1px solid black;
+  height: 400px;
+  display: flex; }
+  .story-container img {
+    margin: 1%;
+    width: 33%;
+    height: 300px;
+    object-fit: contain; }
+  .story-container .story-info {
+    height: 400px;
+    margin: 1%; }
+
+/*# sourceMappingURL=style.css.map */
